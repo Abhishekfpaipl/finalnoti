@@ -22,9 +22,9 @@
                 </div>
 
                 <div class="w-100 p-2 form-floating container">
-                    <input type="password" class="form-control" id="floatingInput" placeholder="Password" v-model="password"
+                    <input type="password" class="form-control" id="floatingInput2" placeholder="Password" v-model="password"
                         required>
-                    <label for="floatingInput" class="text-muted">Password</label>
+                    <label for="floatingInput2" class="text-muted">Password</label>
                 </div>
 
                 <div class="d-flex justify-content-center align-items-center w-100 px-2 mt-2">

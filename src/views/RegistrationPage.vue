@@ -21,18 +21,18 @@
                         <label for="floatingInput" class="text-muted">Enter your Name</label>
                     </div>
                     <div class="w-100 p-2 form-floating">
-                        <input type="email" class="form-control" id="floatingInput" placeholder="Email" v-model="email">
-                        <label for="floatingInput" class="text-muted">Enter your Email</label>
+                        <input type="email" class="form-control" id="floatingInput2" placeholder="Email" v-model="email">
+                        <label for="floatingInput2" class="text-muted">Enter your Email</label>
                     </div>
                     <div class="w-100 p-2 form-floating">
-                        <input type="password" class="form-control" id="floatingInput" placeholder="Email"
+                        <input type="password" class="form-control" id="floatingInput3" placeholder="Email"
                             v-model="password">
-                        <label for="floatingInput" class="text-muted">Password</label>
+                        <label for="floatingInput3" class="text-muted">Password</label>
                     </div>
                     <div class="w-100 p-2 form-floating">
-                        <input type="password" class="form-control" id="floatingInput" placeholder="Email"
+                        <input type="password" class="form-control" id="floatingInput4" placeholder="Email"
                             v-model="confirmPassword">
-                        <label for="floatingInput" class="text-muted">Confirm Password</label>
+                        <label for="floatingInput4" class="text-muted">Confirm Password</label>
                     </div>
                     <div class="p-2">
                         <!-- <router-link to="/email-verification-page"> -->
